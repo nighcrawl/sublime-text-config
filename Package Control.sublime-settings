@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"EditorConfig",
+		"Emmet",
+		"Git",
+		"Github Color Theme",
+		"Indent XML",
+		"jQuery",
+		"Package Control",
+		"Phpcs",
+		"Sass",
+		"SFTP",
+		"Simple FTP Deploy",
+		"Theme - Soda"
+	]
+}
