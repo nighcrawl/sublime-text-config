@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"ApacheConf.tmLanguage",
+		"AutoFileName",
 		"EditorConfig",
 		"Emmet",
 		"Git",
@@ -16,6 +18,9 @@
 		"Sass",
 		"SFTP",
 		"Simple FTP Deploy",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
 		"Theme - Soda",
 		"Theme - Spacegray"
 	]

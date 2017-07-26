@@ -1,6 +1,8 @@
 {
+	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Github Color Theme/GitHub.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/GitHub (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": false,
 	"font_face": "Source Code Pro",
 	"font_size": 9,
 	"highlight_line": true,
@@ -23,8 +25,6 @@
 	"tab_size": 4,
 	"theme": "Soda Light 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": true,
-	"always_show_minimap_viewport": true,
 	"trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": false,
+	"word_wrap": true
 }
